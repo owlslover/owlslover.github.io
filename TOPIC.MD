@@ -1,3 +1,4 @@
+
 ## HELLO EVERYONE! 
 # Welcome to my wonderful topic of taking this crazy class. 
 
@@ -11,3 +12,6 @@ I wouldnt take this experience away for anything because i have more knowlegde a
 
 if you will like to look at this schedule and sylabus then go to 
 https://learn.umuc.edu/d2l/home/290448
+
+![logo] https://github.com/owlslover/owlslover.github.io/blob/master/IMG_3099.JPG
+
